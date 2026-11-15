@@ -1,0 +1,17 @@
+# Downloaded full dataset (the sample is intentionally tracked)
+data/raw/household_power_consumption.txt
+
+# Local Hadoop, Hive, and R-generated files
+.DS_Store
+.Rhistory
+.RData
+*.Rproj.user/
+*.class
+*.log
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
