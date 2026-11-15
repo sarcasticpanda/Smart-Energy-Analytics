@@ -1,0 +1,3 @@
+# Only needed to run the automated tests (pytest tests).
+# The project itself needs Hadoop, Hive and R, which run_on_mac.sh installs.
+pytest>=7.4.0
